@@ -2,7 +2,9 @@
 
 ## Установка зависимостей
 ```bash
-pip install python-telegram-bot==13.15
+python-dotenv==1.1.1
+python-telegram-bot==22.1
+pytz==2025.2
 ```
 
 ## Подготовка
